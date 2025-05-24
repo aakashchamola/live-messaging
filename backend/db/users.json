@@ -1,0 +1,16 @@
+[
+  {
+    "id": "fa0b8017-3660-4877-ae59-7d94f1b487d1",
+    "name": "Aakash",
+    "email": "aakashchamola@gmail.com",
+    "password": "$2b$10$JiTxS2sIV6lnl.FO3b9aF.ysfdDozV6hBHEKq2jx0RdEqDvnK6Aei",
+    "createdAt": "2025-05-24T10:46:11.737Z"
+  },
+  {
+    "id": "77c75491-2d07-483f-b16e-232e0306a949",
+    "name": "kaku",
+    "email": "aakashchamolababa@gmail.com",
+    "password": "$2b$10$SEWlYB0UUetM3kUa5hyyv.hGbB887fXXPutKVMk4OW4z3zsIezJ7e",
+    "createdAt": "2025-05-24T10:46:32.303Z"
+  }
+]

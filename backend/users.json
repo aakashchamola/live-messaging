@@ -1,12 +1,22 @@
 [
   {
-    "id": "d1572cfd-10a4-46d7-8b01-13cff248507a",
-    "name": "Randi",
-    "email": "aakashchamolababa@gmail.com"
+    "id": "eb55f8e6-921c-452d-8903-82b10eefdaff",
+    "name": "Aakash",
+    "email": "aakashchamolababa@gmail.com",
+    "password": "$2b$10$T4.a.z4MVEFYu4vaPIzvX.gQWG699gCD0MOYVx4fBFMuwWcZ3Z2ZG"
   },
   {
-    "id": "41585ea9-255b-4f51-9fc8-f7b52decdb0e",
-    "name": "Kaku",
-    "email": "aakashchamola@gmail.com"
+    "id": "542bf11d-9d23-417a-8fb4-b063f7306c13",
+    "name": "Aakash",
+    "email": "aakashchamola@gmail.com",
+    "password": "$2b$10$itGo7cNcJOB1a/tFF4uS8.jXjQanGBs/xNXGEO7BpdAuSW6VkVBY.",
+    "createdAt": "2025-05-24T10:42:48.265Z"
+  },
+  {
+    "id": "30b75df2-f5e5-4b0d-b698-a7955d74aea9",
+    "name": "Aakash",
+    "email": "aakashcola@gmail.com",
+    "password": "$2b$10$So0LXhSLSh0DLfugtEdIjuz1UNclHq1ibVflDU.s4TQwBk51zwXB.",
+    "createdAt": "2025-05-24T10:43:59.703Z"
   }
 ]
