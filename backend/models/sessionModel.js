@@ -15,11 +15,24 @@ function addSession(session) {
   saveSessions();
 }
 
-function getSession(token) {
-  return sessions.find(s => s.token === token);
+function getSession({token,id}) {
+  return sessions.find(s => 
+    (!token || s.token === token) && (!id || s.userId === id)
+  );
+}
+
+function removeSession({id,token}) {
+   sessions.filter(session => {
+    if (token && session.token === token) return false;
+    if (id && session.userId === id) return false;
+    return true;
+  });
+  saveSessions();
 }
 
 module.exports = {
   addSession,
-  getSession
+  getSession,
+  removeSession
+
 };
